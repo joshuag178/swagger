@@ -97,7 +97,7 @@ public class ProductsControllerTest {
                         .content(json))
                 .andExpect(status().isOk());
 
-        verify(productsService, times(1)).save(Product);
+        verify(productsService, times(1)).update(Product,"1");
     }
 
     @Test
