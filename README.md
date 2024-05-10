@@ -46,4 +46,8 @@ Good code is about details. Follow each step carefully and make sure your code i
 
 🗣️ "I hear and I forget I see and I remember I do and I understand." Confucius
 
+## Configurar Swagger
+Debe configurar Swagger en el proyecto y generar la documentación del API REST.
+
+
 
